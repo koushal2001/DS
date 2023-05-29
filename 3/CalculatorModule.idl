@@ -1,0 +1,6 @@
+module CalculatorModule{
+    interface Calculator{
+        double add(in double num1, in double d2);
+        double sub(in double num1, in double d2);
+    };
+};
